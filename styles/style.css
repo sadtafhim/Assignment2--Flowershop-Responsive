@@ -12,3 +12,8 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
+
+/* special color */
+#special-color{
+    color: rgba(0, 0, 0, 0.5);
+}
