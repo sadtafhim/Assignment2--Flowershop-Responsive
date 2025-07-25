@@ -3,8 +3,7 @@
   font-family: "Noto Serif", serif;
   font-optical-sizing: auto;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  font-variation-settings: "wdth" 100;
 }
 
 .inter-text {
@@ -14,6 +13,31 @@
 }
 
 /* special color */
-#special-color{
-    color: rgba(0, 0, 0, 0.5);
+#special-color {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+/* styles */
+.sixty {
+  background-image: linear-gradient(rgb(0 0 0 / 0.6)),
+    url("../assets/deal-bloom.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.thirty {
+  background-image: linear-gradient(rgb(0 0 0 / 0.6)),
+    url("../assets/deal-ana.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.twenty-five {
+  background-image: linear-gradient(rgb(0 0 0 / 0.6)),
+    url("../assets/deal-zabo.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
