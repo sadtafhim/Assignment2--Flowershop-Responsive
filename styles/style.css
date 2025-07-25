@@ -41,3 +41,10 @@
   background-position: center;
   background-size: cover;
 }
+
+.join {
+  background-image: url("../assets/news-letter-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
